@@ -1,0 +1,12 @@
+{
+  "name": "shuntian-blog",
+  "version": "1.0.0",
+  "description": "Personal blog to record some learn notes",
+  "keywords": [
+    "blog",
+    "notes",
+    "daily"
+  ],
+  "author": "shuntian",
+  "license": "ISC"
+}
